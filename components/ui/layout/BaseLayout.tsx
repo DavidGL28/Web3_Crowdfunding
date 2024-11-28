@@ -1,4 +1,4 @@
-import Navbar from "components/navbar";
+import Navbar from "@ui/navbar";
 import { FunctionComponent } from "react";
 
 
